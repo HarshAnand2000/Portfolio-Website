@@ -405,26 +405,26 @@ a {
 }
 
 #project1 {
-  background-image: url(images/projects/project1.png);
+  background-image: url(images/projects/Project1.png);
   /* background-repeat: no-repeat; */
   background-size: cover;
 }
 
 #project2 {
-  background-image: url(images/projects/project2.png);
+  background-image: url(images/projects/Project2.png);
   /* background-repeat: no-repeat; */
   background-size: cover;
   margin-left: 120px;
 }
 
 #project3 {
-  background-image: url(images/projects/project3.png);
+  background-image: url(images/projects/Project3.png);
   /* background-repeat: no-repeat; */
   background-size: cover;
 }
 
 #project4 {
-  background-image: url(images/projects/project4.png);
+  background-image: url(images/projects/Project4.png);
   /* background-repeat: no-repeat; */
   background-size: cover;
   margin-left: 120px;
